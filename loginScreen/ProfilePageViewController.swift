@@ -14,5 +14,6 @@ class ProfilePageViewController: UIViewController {
         super.viewDidLoad()
         imageView1.layer.borderColor = UIColor.white.cgColor
         imageView1.layer.borderWidth = 5
+        print("Hey")
     }
 }
